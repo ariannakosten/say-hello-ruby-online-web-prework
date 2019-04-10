@@ -1,2 +1,2 @@
-def say_Hello(name)
-  
+def print_Say_Hello(name)
+  puts "Hello, #{name}!"
